@@ -22,7 +22,7 @@ pod "DemoLib"
 
 ## Author
 
-krkapilrathore@gmail.com, kapil@provakil.com
+Kapil Rathore (krkapilrathore@gmail.com)
 
 ## License
 
